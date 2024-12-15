@@ -1,0 +1,3 @@
+[submodule "SendYourFile-server"]
+	path = SendYourFile-server
+	url = https://github.com/Extager/SendYourFile-server
